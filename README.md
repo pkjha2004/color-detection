@@ -22,6 +22,6 @@ Python
 
 OpenCV
 
-numPy
+NumPy
 
 Pandas (for color dataset handling)hello
